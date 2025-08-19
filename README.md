@@ -48,7 +48,7 @@ The bot provides information on products, company policies, sales collateral, an
 ---
 
 ## 🖼️ Bot Workflow Diagram
-![Knowledge Base Chatbot Flow](./sales_enablement-bot-flow.png)  
+![Sales Enablement Chatbot Flow](./sales-enablement-bot-flow.png)  
 *(This diagram shows the chatbot’s flow for handling knowledge base queries and providing fallback responses.)*  
 
 ---
